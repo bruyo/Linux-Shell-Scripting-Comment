@@ -10,4 +10,6 @@ This is started by # in bash, and everything in that statement is treated as a c
 
 'echo "Hello, you are learning Bash Scripting on DAREY.IO!"'
 
+![alt text](cm1.JPG)
+
 
