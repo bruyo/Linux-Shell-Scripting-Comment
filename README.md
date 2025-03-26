@@ -12,4 +12,13 @@ This is started by # in bash, and everything in that statement is treated as a c
 
 ![alt text](cm1.JPG)
 
+## Multiple Single-line Comment
 
+This is used to add multiple single-line comment with each statement starting with *#*. For example;
+
+'# This is another way to create
+'# a multi-line comment. Each line'
+'# is prefixed with a # symbol.'
+'echo "Here is an actual code that gets executed"'
+
+![alt text](cm2.JPG)
