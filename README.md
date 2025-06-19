@@ -14,7 +14,7 @@ This is started by # in bash, and everything in that statement is treated as a c
 
 'echo "Hello, you are learning Bash Scripting on DAREY.IO!"'
 
-![alt text](cm1.JPG)
+![alt text](/cm1.JPG)
 
 
 ## Multiple Single-line Comment
@@ -27,7 +27,7 @@ This is used to add multiple single-line comment with each statement starting wi
 '# is prefixed with a # symbol.'
 'echo "Here is an actual code that gets executed"'
 
-![alt text](cm2.JPG)
+![alt text](/cm2.JPG)
 
 ## Task
 
@@ -35,7 +35,7 @@ This is used to add multiple single-line comment with each statement starting wi
 
 'touch commented_script.sh'
 
-![alt text](cm3.JPG)
+![alt text](/cm3.JPG)
 
 ### Open a text editor and type a script
 
@@ -47,4 +47,4 @@ This is used to add multiple single-line comment with each statement starting wi
 '# is prefixed with a # symbol.'
 'echo "Here is an actual code that gets executed"'
 
-![alt text](cm2.JPG)
+![alt text](/cm2.JPG)
