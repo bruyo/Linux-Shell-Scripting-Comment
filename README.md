@@ -14,6 +14,7 @@ This is started by # in bash, and everything in that statement is treated as a c
 
 ![alt text](cm1.JPG)
 
+
 ## Multiple Single-line Comment
 
 This is used to add multiple single-line comment with each statement starting with *#*. For example;
