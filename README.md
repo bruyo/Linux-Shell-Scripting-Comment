@@ -33,9 +33,13 @@ This is used to add multiple single-line comment with each statement starting wi
 
 ### Create a file 
 
-'vim commented_scripts.txt'
+'touch commented_script.sh'
 
-### Type a script
+![alt text](cm3.JPG)
+
+### Open a text editor and type a script
+
+'vim commented_script.sh'
 
 '#!/bin/bash
 '# This is another way to create
