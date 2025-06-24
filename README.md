@@ -31,6 +31,12 @@ This is used to add multiple single-line comment with each statement starting wi
 
 ## Task
 
+### Create a directory
+
+'mkdir TestFolder'
+
+![alt text](/cm4.JPG)
+
 ### Create a file 
 
 'touch commented_script.sh'
@@ -48,3 +54,14 @@ This is used to add multiple single-line comment with each statement starting wi
 'echo "Here is an actual code that gets executed"'
 
 ![alt text](/cm2.JPG)
+
+### Execute the file
+
+'chmod u+x commented_script.sh'
+
+![alt text](/cm5.JPG)
+
+'./commented_script.sh'
+
+![alt text](/cm6.JPG)
+
