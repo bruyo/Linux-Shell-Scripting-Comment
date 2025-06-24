@@ -31,13 +31,13 @@ This is used to add multiple single-line comment with each statement starting wi
 
 ## Task
 
-### Create a directory
+### Create a directory (TestFolder)
 
 'mkdir TestFolder'
 
 ![alt text](/cm4.JPG)
 
-### Create a file 
+### Create a file (commented_script.sh)
 
 'touch commented_script.sh'
 
